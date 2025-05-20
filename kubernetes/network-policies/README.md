@@ -41,5 +41,3 @@ kubectl delete -f .
 ---
 
 *Made with ❤️ by [Cleura](https://cleura.com)*
-
-```
